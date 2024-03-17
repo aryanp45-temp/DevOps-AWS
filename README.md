@@ -5,13 +5,13 @@ Complete YouTube playlist - https://www.youtube.com/playlist?list=PLdpzxOOAlwvLN
 AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples. Each day's class will provide real-time knowledge on AWS services, allowing you to apply what you've learned and gain practical skills in working with AWS in a DevOps context.
 
 ## Day 1: Introduction to AWS 
-- [x]   
+- [x] done  
 You will learn what is private and public cloud. Why companies are moving to public cloud, what are the advantages of moving to cloud.
 
 Also, you will be introduced to the basics of AWS, including the core services and their significance in DevOps practices. Finally learn how to set up an AWS account and navigate the AWS Management Console.
 
 ## Day 2: IAM (Identity and Access Management)
-- [x]   
+- [x] done  
 You will explore IAM, which is used for managing access to AWS resources. You'll learn how to create IAM users, groups, and roles, and how to apply permissions and security best practices to ensure proper access control.
 
 ## Day 3: EC2 Instances
@@ -186,7 +186,7 @@ You'll explore AWS CloudTrail and AWS Config, which provide auditing and complia
 **Project:** You'll configure CloudTrail to log API activities and set up AWS Config rules to enforce compliance policies for your AWS resources.
 
 ## Day 26: AWS Elastic Load Balancer
-- [ ]  
+- [ ] done
 
 You'll explore AWS Elastic Load Balancer, a service for distributing incoming application traffic across multiple targets. You'll learn how to configure and manage load balancers to ensure high availability, fault tolerance, and scalability.
 
