@@ -20,7 +20,7 @@ You'll dive into EC2, which provides virtual servers in the cloud. You'll learn 
 You'll explore AWS networking concepts, with a specific focus on VPC (Virtual Private Cloud). You'll learn how to create and configure VPCs, subnets, and route tables, enabling you to design and manage the network infrastructure for your applications.
 
 ## Day 5: AWS Security
-- [] State  
+- [X] State  
 
 This day emphasizes security best practices in AWS. You'll learn how to implement security measures such as security groups, network ACLs (Access Control Lists), and IAM policies to ensure the confidentiality, integrity, and availability of your AWS resources.
 
