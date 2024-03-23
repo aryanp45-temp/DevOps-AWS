@@ -25,7 +25,7 @@ You'll explore AWS networking concepts, with a specific focus on VPC (Virtual Pr
 This day emphasizes security best practices in AWS. You'll learn how to implement security measures such as security groups, network ACLs (Access Control Lists), and IAM policies to ensure the confidentiality, integrity, and availability of your AWS resources.
 
 ## Day 6: AWS Route 53
-- [] State  
+- [X] State  
 
 **Project:** Configure and manage a domain name using Route 53. You'll register a domain, set up DNS records, and explore advanced features such as health checks, routing policies, and DNS-based failover.
 
