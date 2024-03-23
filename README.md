@@ -1,8 +1,8 @@
-# aws-devops-zero-to-hero
-
 ## Day 1: Introduction to AWS 
 - [x] State  
+You will learn what is private and public cloud. Why companies are moving to public cloud, what are the advantages of moving to cloud.
 
+Also, you will be introduced to the basics of AWS, including the core services and their significance in DevOps practices. Finally learn how to set up an AWS account and navigate the AWS Management Console.
 
 ## Day 2: IAM (Identity and Access Management)
 - [x] State  
@@ -15,17 +15,17 @@ You'll dive into EC2, which provides virtual servers in the cloud. You'll learn 
 **Your First AWS Project**: Deploy a simple web application(such as jenkins) on the ec2 instance and access the application from outside AWS.
 
 ## Day 4: AWS Networking (VPC)
-- [X] State  
+- [] State  
 
 You'll explore AWS networking concepts, with a specific focus on VPC (Virtual Private Cloud). You'll learn how to create and configure VPCs, subnets, and route tables, enabling you to design and manage the network infrastructure for your applications.
 
 ## Day 5: AWS Security
-- [X] State  
+- [] State  
 
 This day emphasizes security best practices in AWS. You'll learn how to implement security measures such as security groups, network ACLs (Access Control Lists), and IAM policies to ensure the confidentiality, integrity, and availability of your AWS resources.
 
 ## Day 6: AWS Route 53
-- [X] State  
+- [] State  
 
 **Project:** Configure and manage a domain name using Route 53. You'll register a domain, set up DNS records, and explore advanced features such as health checks, routing policies, and DNS-based failover.
 
