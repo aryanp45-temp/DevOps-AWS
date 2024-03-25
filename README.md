@@ -69,7 +69,7 @@ By implementing this project, you'll gain hands-on experience in setting up a se
 - [X] State  
 
 ## Day 9: Amazon S3
-- [ ] State  
+- [X] State  
 
 This day focuses on Amazon S3, a scalable object storage service. You'll learn how to create S3 buckets, upload and download objects, and organize data using S3 features like versioning, lifecycle policies, and access control.
 
